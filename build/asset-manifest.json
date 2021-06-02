@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vh-react/static/css/main.fba721f4.chunk.css",
+    "main.js": "/vh-react/static/js/main.7679aa9d.chunk.js",
+    "main.js.map": "/vh-react/static/js/main.7679aa9d.chunk.js.map",
+    "runtime-main.js": "/vh-react/static/js/runtime-main.e8c02867.js",
+    "runtime-main.js.map": "/vh-react/static/js/runtime-main.e8c02867.js.map",
+    "static/js/2.9c7a1c26.chunk.js": "/vh-react/static/js/2.9c7a1c26.chunk.js",
+    "static/js/2.9c7a1c26.chunk.js.map": "/vh-react/static/js/2.9c7a1c26.chunk.js.map",
+    "static/js/3.35156c07.chunk.js": "/vh-react/static/js/3.35156c07.chunk.js",
+    "static/js/3.35156c07.chunk.js.map": "/vh-react/static/js/3.35156c07.chunk.js.map",
+    "index.html": "/vh-react/index.html",
+    "static/css/main.fba721f4.chunk.css.map": "/vh-react/static/css/main.fba721f4.chunk.css.map",
+    "static/js/2.9c7a1c26.chunk.js.LICENSE.txt": "/vh-react/static/js/2.9c7a1c26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8c02867.js",
+    "static/js/2.9c7a1c26.chunk.js",
+    "static/css/main.fba721f4.chunk.css",
+    "static/js/main.7679aa9d.chunk.js"
+  ]
+}
