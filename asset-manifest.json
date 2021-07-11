@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vh-react/static/css/main.cbb7fa86.chunk.css",
+    "main.css": "/vh-react/static/css/main.93c5b196.chunk.css",
     "main.js": "/vh-react/static/js/main.976466c1.chunk.js",
     "main.js.map": "/vh-react/static/js/main.976466c1.chunk.js.map",
     "runtime-main.js": "/vh-react/static/js/runtime-main.1cc91f97.js",
@@ -10,14 +10,14 @@
     "static/js/3.6bd56034.chunk.js": "/vh-react/static/js/3.6bd56034.chunk.js",
     "static/js/3.6bd56034.chunk.js.map": "/vh-react/static/js/3.6bd56034.chunk.js.map",
     "index.html": "/vh-react/index.html",
-    "static/css/main.cbb7fa86.chunk.css.map": "/vh-react/static/css/main.cbb7fa86.chunk.css.map",
+    "static/css/main.93c5b196.chunk.css.map": "/vh-react/static/css/main.93c5b196.chunk.css.map",
     "static/js/2.555db5e8.chunk.js.LICENSE.txt": "/vh-react/static/js/2.555db5e8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/vh-react/static/media/piano.ac41462b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1cc91f97.js",
     "static/js/2.555db5e8.chunk.js",
-    "static/css/main.cbb7fa86.chunk.css",
+    "static/css/main.93c5b196.chunk.css",
     "static/js/main.976466c1.chunk.js"
   ]
 }
